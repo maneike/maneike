@@ -1,16 +1,21 @@
-### Hi there 👋
+#  <strong>Maneike<strong> ✌️
+Welcome to my GitHub profile. My name is Martin Chełminiak. I go by `maneike` in most online places.
 
-<!--
-**maneike/maneike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Junior React and React Native developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working with:**
+ - React (Native)
+ - JavaScript
+ - TypeScript
+ - HTML5
+ - CSS3
+ - SASS
+ - Adobe XD
+
+**Social medias**
+ - [GitHub](https://github.com/maneike)
+ - [LinkedIn](https://www.linkedin.com/in/martin-che%C5%82miniak-357985176/)
+ - [Facebook](https://www.facebook.com/maneike/) 
+ - [Instagram](https://www.instagram.com/maneike/)
