@@ -2,7 +2,7 @@
 Welcome to my GitHub profile. ✌️ My name is Martin Chełminiak. I go by `maneike` in most online places.
 
 ## I'm a Junior React and React Native developer
-I am a second-year computer science student and in my free time I create web applications. Hoping to learn machine learning and artificial intelligence in the future. 
+I am a second-year computer science student. Hoping to learn machine learning and artificial intelligence in the future. I am also learning UI/UX Design.
 
 ### Tech stack
 
@@ -19,8 +19,7 @@ I am a second-year computer science student and in my free time I create web app
 <a href="https://nodejs.org/en/" title="NodeJS"><img src="icons/svgs/nodejs.svg" width="50" height="50" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/svgs/python-5.svg" width="50" height="50" /></a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="icons/svgs/django.svg" width="50" height="50" /></a>
-
-
++ many more!
 
 **Social media**
  - [GitHub](https://github.com/maneike)
