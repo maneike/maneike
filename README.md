@@ -8,7 +8,7 @@ I am a second-year computer science student and in my free time I create web app
 
 **Currently working with:**
 
-<a href="https://reactjs.org/" title="React"><img src="icons/svgs/react-2.svg =250x" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/svgs/react-2.svg" width="200" height="200" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 
 **Previously worked with:**
