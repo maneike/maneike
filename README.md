@@ -4,7 +4,7 @@ Welcome to my GitHub profile. ✌️ My name is <strong>Martin Chełminiak<stron
 ## I'm a Junior React and React Native developer
 I am a second-year computer science student. Hoping to learn machine learning and artificial intelligence in the future. I am also learning UI/UX Design.
 
-### Tech stack
+## Tech stack
 
 **Current:**
 
