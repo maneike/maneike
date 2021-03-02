@@ -19,7 +19,7 @@ I am a second-year computer science student. Hoping to learn machine learning an
 <a href="https://nodejs.org/en/" title="NodeJS"><img src="icons/svgs/nodejs.svg" width="50" height="50" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/svgs/python-5.svg" width="50" height="50" /></a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="icons/svgs/django.svg" width="50" height="50" /></a>
-+many more!
+\+ many more!
 
 **Social media**
  - [GitHub](https://github.com/maneike)
