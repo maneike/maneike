@@ -8,13 +8,19 @@ I am a second-year computer science student and in my free time I create web app
 
 **Currently working with:**
 
-<a href="https://reactjs.org/" title="React"><img src="icons/svgs/react-2.svg" width="200" height="200" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/svgs/react-2.svg" width="50" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/svgs/javascript.svg" width="50" height="50"/></a>
+<a href="https://www.adobe.com/products/xd.html" title="Adobe XD"><img src="icons/svgs/adobe-xd.svg" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML" title="HTML5"><img src="icons/svgs/html-5.svg" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/CSS" title="CSS3"><img src="icons/svgs/css3.svg" width="50" height="50"/></a>
 
 **Previously worked with:**
 
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/svgs/typescript.svg" width="50" height="50" /></a>
+<a href="https://sass-lang.com/" title="Sass"><img src="icons/svgs/sass-1.svg" width="50" height="50" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/svgs/python-5.svg" width="50" height="50" /></a>
+<a href="https://www.djangoproject.com/" title="Django"><img src="icons/svgs/django.svg" width="50" height="50" /></a>
+
 
 
 **Social media**
