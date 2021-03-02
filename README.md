@@ -6,7 +6,7 @@ I am a second-year computer science student and in my free time I create web app
 
 ### Tech stack
 
-**Currently working with:**
+**Current:**
 
 <a href="https://reactjs.org/" title="React"><img src="icons/svgs/react-2.svg" width="50" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/svgs/javascript.svg" width="50" height="50"/></a>
@@ -14,7 +14,7 @@ I am a second-year computer science student and in my free time I create web app
 <a href="https://en.wikipedia.org/wiki/HTML" title="HTML5"><img src="icons/svgs/html-5.svg" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS3"><img src="icons/svgs/css3.svg" width="50" height="50"/></a>
 
-**Additionally worked with:**
+**Additional:**
 
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/svgs/typescript.svg" width="50" height="50" /></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="icons/svgs/sass-1.svg" width="50" height="50" /></a>
