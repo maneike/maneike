@@ -1,5 +1,5 @@
 #  **Maneike**
-Welcome to my GitHub profile. ✌️ My name is **Martin Chełminiak**. I go by `maneike` in most online places.
+👈 That's me. My name is **Martin Chełminiak**. I go by `maneike` in most online places.
 
 ## I'm a Junior React and React Native developer.
 I am a second-year computer science student. Hoping to learn machine learning and artificial intelligence in the future. I am also learning UI/UX Design.
