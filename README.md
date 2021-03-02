@@ -22,7 +22,7 @@ I am a second-year computer science student. Hoping to learn machine learning an
 
 \+ many more!
 
-###Social media
+### Social media
  - [GitHub](https://github.com/maneike)
  - [LinkedIn](https://www.linkedin.com/in/martin-che%C5%82miniak-357985176/)
  - [Facebook](https://www.facebook.com/maneike/) 
