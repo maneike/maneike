@@ -10,10 +10,10 @@ I am a second-year computer science student and in my free time I create web app
 
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 
 **Previously worked with:**
 
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 
 
