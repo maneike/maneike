@@ -1,4 +1,4 @@
-#  <strong>Maneike<strong> 
+#  <strong>Maneike</strong> 
 Welcome to my GitHub profile. ✌️ My name is Martin Chełminiak. I go by `maneike` in most online places.
 
 ## I'm a Junior React and React Native developer
