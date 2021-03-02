@@ -14,7 +14,7 @@ I am a second-year computer science student and in my free time I create web app
 <a href="https://en.wikipedia.org/wiki/HTML" title="HTML5"><img src="icons/svgs/html-5.svg" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS3"><img src="icons/svgs/css3.svg" width="50" height="50"/></a>
 
-**Previously worked with:**
+**Additionally worked with:**
 
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/svgs/typescript.svg" width="50" height="50" /></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="icons/svgs/sass-1.svg" width="50" height="50" /></a>
