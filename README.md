@@ -5,7 +5,7 @@
 I'm a second-year computer science student. I'm learning UI/UX Design, but hoping to learn machine learning and artificial intelligence in the future. Currently I'm
 creating my portfolio website and web apps that would go with it.
 
-## Projects I've done:
+## Featured projects:
  - [Guillotine Cutter](https://github.com/maneike/guillotine-cutter) React Web Application that fits rectangles into one fixed rectangle 
  
 ## Tech stack
