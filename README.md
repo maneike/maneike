@@ -8,7 +8,7 @@ creating my portfolio website and web apps that would go with it.
 ## Featured projects:
  - [Guillotine Cutter](https://github.com/maneike/guillotine-cutter) React Web Application that automatically fits rectangles into one fixed size sheet.
  
-## Tech stack
+## What I use:
 
 **Current:**
 
