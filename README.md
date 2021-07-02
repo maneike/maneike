@@ -6,7 +6,8 @@ I'm a second-year computer science student. I'm learning UI/UX Design, but hopin
 creating my portfolio website and web apps that would go with it.
 
 ## Featured projects:
- - [Guillotine Cutter](https://github.com/maneike/guillotine-cutter) React Web Application that automatically fits rectangles into one fixed size sheet.
+ - [Guillotine Cutter](https://github.com/maneike/guillotine-cutter) React web application that automatically fits rectangles into one fixed size sheet.
+ - [RunR](https://github.com/maneike/RunR) React Native mobile application for competitive runners!
  
 ## What I use:
 
