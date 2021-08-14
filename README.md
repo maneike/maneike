@@ -20,9 +20,6 @@ I'm a third-year computer science student. In the future I would like to become 
 <a href="https://firebase.google.com/" title="Firebase"><img src="icons/firebase.png" width="50" height="50" /></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="icons/svgs/sass-1.svg" width="50" height="50" /></a>
 <a href="https://www.adobe.com/products/xd.html" title="Adobe XD"><img src="icons/svgs/adobe-xd.svg" width="50" height="50"/></a>
-<a href="https://nodejs.org/en/" title="NodeJS"><img src="icons/svgs/nodejs.svg" width="50" height="50" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/svgs/python-5.svg" width="50" height="50" /></a>
-<a href="https://www.djangoproject.com/" title="Django"><img src="icons/svgs/django.svg" width="50" height="50" /></a>
 
 \+ many more!
 
