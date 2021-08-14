@@ -10,7 +10,7 @@ I'm a third-year computer science student. In the future I would like to become 
  
 ## Tech Stack:
 
-**That I'm currently working with:**
+**I'm currently working with:**
 
 <a href="https://reactjs.org/" title="React"><img src="icons/svgs/react-2.svg" width="50" height="50" /></a>
 <a href="https://reactnative.dev/" title="ReactNative"><img src="icons/reactnative.png" width="50" height="50" /></a>
