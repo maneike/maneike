@@ -8,18 +8,19 @@ I'm a third-year computer science student. In the future I would like to become 
  - [Guillotine Cutter](https://github.com/maneike/guillotine-cutter) React web application that automatically fits rectangles into one fixed size sheet.
  - [RunR](https://github.com/maneike/RunR) React Native mobile application for competitive runners!
  
-## What I use:
+## Tech Stack:
 
-**Current:**
+**That I'm currently using:**
 
 <a href="https://reactjs.org/" title="React"><img src="icons/svgs/react-2.svg" width="50" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/svgs/javascript.svg" width="50" height="50"/></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/svgs/typescript.svg" width="50" height="50" /></a>
+<a href="https://reactnative.dev/" title="ReactNative"><img src="icons/reactnative.png" width="50" height="50" /></a>
+
+**I've used before:**
+
 <a href="https://sass-lang.com/" title="Sass"><img src="icons/svgs/sass-1.svg" width="50" height="50" /></a>
 <a href="https://www.adobe.com/products/xd.html" title="Adobe XD"><img src="icons/svgs/adobe-xd.svg" width="50" height="50"/></a>
-
-**Additional:**
-
 <a href="https://nodejs.org/en/" title="NodeJS"><img src="icons/svgs/nodejs.svg" width="50" height="50" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/svgs/python-5.svg" width="50" height="50" /></a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="icons/svgs/django.svg" width="50" height="50" /></a>
