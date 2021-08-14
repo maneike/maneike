@@ -17,6 +17,7 @@ I'm a third-year computer science student. In the future I would like to become 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/svgs/javascript.svg" width="50" height="50"/></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/svgs/typescript.svg" width="50" height="50" /></a>
 <a href="https://jestjs.io/" title="Jest"><img src="icons/jest.png" width="50" height="50" /></a>
+<a href="https://www.postman.com/" title="Postman"><img src="icons/postman.png" width="50" height="50" /></a>
 
 **I've worked with before:**
 
