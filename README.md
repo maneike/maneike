@@ -22,6 +22,7 @@ I'm a third-year computer science student. In the future I would like to become 
 <a href="https://firebase.google.com/" title="Firebase"><img src="icons/firebase.png" width="50" height="50" /></a>
 <a href="https://www.adobe.com/products/xd.html" title="Adobe XD"><img src="icons/svgs/adobe-xd.svg" width="50" height="50"/></a>
 <a href="https://www.postman.com/" title="Postman"><img src="icons/postman.png" width="50" height="50" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" width="50" height="50" /></a>
 
 \+ many more!
 
