@@ -16,6 +16,7 @@ I'm a third-year computer science student. In the future I would like to become 
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/svgs/typescript.svg" width="50" height="50" /></a>
 <a href="https://redux.js.org/" title="Redux"><img src="icons/redux.png" width="50" height="50" /></a>
 <a href="https://react-query.tanstack.com/" title="React Query"><img src="icons/react-query.png" width="50" height="50" /></a>
+<a href="https://graphql.org/" title="GraphQL"><img src="icons/graphql.png" width="50" height="50" /></a>
 <a href="https://jestjs.io/" title="Jest"><img src="icons/jest.png" width="50" height="50" /></a>
 <a href="https://styled-components.com/" title="Styled Components"><img src="icons/styled.png" width="50" height="50" /></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="icons/svgs/sass-1.svg" width="50" height="50" /></a>
