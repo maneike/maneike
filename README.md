@@ -10,8 +10,6 @@ I'm a third-year computer science student. In the future I would like to become 
  
 ## Tech Stack:
 
-**I'm currently working with:**
-
 <a href="https://reactjs.org/" title="React"><img src="icons/svgs/react-2.svg" width="50" height="50" /></a>
 <a href="https://reactnative.dev/" title="ReactNative"><img src="icons/reactnative.png" width="50" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/svgs/javascript.svg" width="50" height="50"/></a>
@@ -19,9 +17,6 @@ I'm a third-year computer science student. In the future I would like to become 
 <a href="https://redux.js.org/" title="Redux"><img src="icons/redux.png" width="50" height="50" /></a>
 <a href="https://jestjs.io/" title="Jest"><img src="icons/jest.png" width="50" height="50" /></a>
 <a href="https://www.postman.com/" title="Postman"><img src="icons/postman.png" width="50" height="50" /></a>
-
-**I've worked with before:**
-
 <a href="https://sass-lang.com/" title="Sass"><img src="icons/svgs/sass-1.svg" width="50" height="50" /></a>
 <a href="https://www.adobe.com/products/xd.html" title="Adobe XD"><img src="icons/svgs/adobe-xd.svg" width="50" height="50"/></a>
 <a href="https://nodejs.org/en/" title="NodeJS"><img src="icons/svgs/nodejs.svg" width="50" height="50" /></a>
