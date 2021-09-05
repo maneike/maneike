@@ -5,8 +5,8 @@
 I'm a third-year computer science student. In the future I would like to become a software architect, but for the time being I am studying and reading literature related to high-performing software engineering and high-quality software development. Currently working in a software house called Expansio.
 
 ## Featured projects:
- - 🪚 [Guillotine Cutter](https://github.com/maneike/guillotine-cutter) React web application that automatically fits rectangles into one fixed size sheet.
- - 🏃‍♂️ [RunR](https://github.com/maneike/RunR) React Native mobile application for competitive runners!
+ - [Guillotine Cutter](https://github.com/maneike/guillotine-cutter) React web application that automatically fits rectangles into one fixed size sheet.
+ - [RunR](https://github.com/maneike/RunR) React Native mobile application for competitive runners!
  
 ## Tools Stack:
 
