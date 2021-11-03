@@ -2,7 +2,7 @@
 👈 That's me. My name is **Martin Chełminiak**. I go by `maneike` in most online places.
 
 ## I'm a Junior React and React Native developer.
-I'm a third-year computer science student. In the future I would like to become a software architect, but for the time being I am studying and reading literature related to high-performing software engineering and high-quality software development. Currently working in a software house called Expansio.
+I'm a third-year computer science student. In the future I would like to become a software architect, but for the time being I am studying and reading literature related to high-performing software engineering and high-quality software development.
 
 ## Featured projects:
  - [Guillotine Cutter](https://github.com/maneike/guillotine-cutter) React web application that automatically fits rectangles into one fixed size sheet.
