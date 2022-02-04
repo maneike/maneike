@@ -4,10 +4,6 @@
 ## I'm a Junior Frontend Developer.
 I'm a third-year computer science student at UAM in Poznań, Poland. In the future I would like to become a software architect, but for the time being I am studying and reading literature related to high-performing software engineering and high-quality software development.
 
-## Featured projects:
- - [Guillotine Cutter](https://github.com/maneike/guillotine-cutter) React web application that automatically fits rectangles into one fixed size sheet.
- - [RunR](https://github.com/maneike/RunR) React Native mobile application for competitive runners! WIP
- 
 ## Tools Stack:
 
 <a href="https://reactjs.org/" title="React"><img src="icons/svgs/react-2.svg" width="50" height="50" /></a>
