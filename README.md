@@ -1,7 +1,7 @@
 #  **Maneike**
 👈 That's me. My name is **Martin Chełminiak**. I go by `maneike` in most online places.
 
-## I'm a Junior Frontend Developer.
+## I'm a Junior Developer.
 I'm a third-year computer science student at UAM in Poznań, Poland. In the future I would like to become a software architect, but for the time being I am studying and reading literature related to high-performing software engineering and high-quality software development.
 
 ## Tools Stack:
