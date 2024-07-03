@@ -3,6 +3,7 @@
 
 ## I'm a Developer.
 I'm a computer science graduate at UAM in Poznań, Poland.
+
 Currently working as a software engineer @ Tonik, a design studio focused on early stage startups, helping founders define, design and build products.
 
 ### Socials
